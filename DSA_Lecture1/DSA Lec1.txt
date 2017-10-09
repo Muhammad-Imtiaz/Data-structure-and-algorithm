@@ -1,0 +1,12 @@
+LMS
+Google the following tools after class:
+JPLAG, MOSS
+Late comers / absentees?
+Labs? (Timetable change: Both sections on Friday 2nd slot in Lab3 and DSP Lab)
+Mode of assessments?
+Essential parts of a problem?
+Given two integer variables, write a Java program to swap their values.
+Write a Java program which takes two integers a input and computes their Greatest Common Divisor (GCD).
+Is the above program recursive? Is it possible to convert an iterative program into a recursive one? How?
+Two integers are relatively prime if their GCD is 1. Update the above program to check whether the two input integers are relatively prime.
+HW: Write a program to compute the probability that two randomly chosen integers between 1 and 1000 are relatively prime.
